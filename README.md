@@ -36,9 +36,4 @@ To get started with this project, follow these steps:
 Contributions to this project are welcome! If you have ideas for improving the UI, animations, UX, or if you'd like to contribute any enhancements, feel free to open a pull request.
 
 Let's make NumeriX-Tac-Toe even more engaging and enjoyable for players!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), so you're free to use, modify, and distribute the code as long as you provide proper attribution.
-
 Enjoy the game and happy coding! 🎉
