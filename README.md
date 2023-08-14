@@ -4,7 +4,7 @@ Welcome to the NumeriX-Tac-Toe GitHub repository! This project was inspired by a
 
 ## Problem Description
 
-The task was to create a single-player Tic-Tac-Toe game with a great user interface, smooth animations, and an engaging user experience. However, the twist is that we won't be using the traditional "X" and "O" markers. Instead, we'll use the numbers from 1 to 9, and each of these numbers can only be played once during the game.
+The task was to create a single-player Tic-Tac-Toe game with a twist that we won't be using the traditional "X" and "O" markers. Instead, we'll use the numbers from 1 to 9, and each of these numbers can only be played once during the game.
 
 Here's how the game works:
 
@@ -19,7 +19,7 @@ For this project, I've designed a Java interface that allows players to engage w
 ## Features
 
 - **Unique Gameplay**: NumeriX-Tac-Toe offers a refreshing twist on the traditional game by using numbers and a winning condition of 15.
-- **User-Friendly Interface**: The Java interface is designed to provide a smooth and enjoyable experience for players.
+- **User-Friendly Interface**: The Java interface is designed to provide a simple yet enjoyable experience for players.
 - **Randomized AI**: The AI takes random steps from available moves, making each game unpredictable and exciting.
 
 ## Getting Started
