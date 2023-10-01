@@ -1,6 +1,6 @@
 # NumeriX-Tac-Toe
 
-Welcome to the NumeriX-Tac-Toe GitHub repository! This project was inspired by a challenging interview question that pushed me to design a unique version of the classic Tic-Tac-Toe game. Here's the original problem description:
+Welcome to the NumeriX-Tac-Toe GitHub repository! This project was asked in an interview, to design a unique version of the classic Tic-Tac-Toe game. Here's the original problem description:
 
 ## Problem Description
 
@@ -8,13 +8,13 @@ The task was to create a single-player Tic-Tac-Toe game with a twist that we won
 
 Here's how the game works:
 
-- Players take turns to play a number (from 1 to 9) in an empty square on the board.
+- Players take alternate turns to play an unused number (from 1 to 9), starting from an empty board.
 - The goal is to be the first player to form a row, column, or diagonal where the numbers add up to 15.
 - The challenge lies in strategic thinking and planning your moves to achieve the winning condition while preventing your opponent (the AI) from winning.
 
 ## My Solution
 
-For this project, I've designed a Java interface that allows players to engage with the game. The key feature of this version is a unique twist on the traditional game, incorporating numbers and the goal of achieving a sum of 15 in rows, columns, or diagonals. The AI implementation in my solution takes random steps from the available moves, providing a fun and unpredictable experience for players.
+For this project, I've designed a basic Java interface that allows players to engage with the game. The key feature of this version is a unique twist on the traditional game, incorporating numbers and the goal of achieving a sum of 15 in rows, columns, or diagonals. The AI implementation in my solution takes random steps from the available moves, providing a fun and unpredictable experience for players.
 
 ## Features
 
